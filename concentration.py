@@ -19,6 +19,6 @@ def concentration():
        print("Please give me the value between 0 and 14")
 
 
-print(concentration())
+concentration()
 
 
