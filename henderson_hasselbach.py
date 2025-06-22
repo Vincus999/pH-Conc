@@ -18,4 +18,4 @@ def henderson_hasselbach():
         print("Error: the given value is not valid. Please try again.")
 
 
-print(henderson_hasselbach())
+henderson_hasselbach()
