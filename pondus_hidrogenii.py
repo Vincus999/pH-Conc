@@ -33,6 +33,5 @@ def pondus_hidrogenii():
     except ValueError:
         print("Error: please enter an acid or_base: ")
 
-
-print(pondus_hidrogenii())
+pondus_hidrogenii()
 
